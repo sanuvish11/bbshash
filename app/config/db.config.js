@@ -1,8 +1,8 @@
 module.exports = {
-  HOST: "localhost",
+  HOST: "bbshborad.c27swtyzqmgm.us-east-2.rds.amazonaws.com",
   USER: "root",
-  PASSWORD: "root",
-  DB: "testdb",
+  PASSWORD: "root1234",
+  DB: "bbashboard",
   dialect: "mysql",
   pool: {
     max: 5,
